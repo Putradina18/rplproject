@@ -1,2 +1,0 @@
-DataPelanggan.datapelanggan
-DataPelanggan.DataPelanggan
